@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--指示器中自定义属性-->
+    <declare-styleable name="Indicator">
+        <attr name="iTitleTextSize" format="dimension"/>
+        <attr name="iTextColor" format="color"/>
+        <attr name="iPointSize" format="dimension"/>
+    </declare-styleable>
+</resources>
